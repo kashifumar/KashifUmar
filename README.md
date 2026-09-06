@@ -16,7 +16,7 @@ I work independently — designing, building, and maintaining each tool end-to-e
 
 | Name | Description | Repo | Install |
 |---|---|---|---|
-| **UpTrack** | Tracks reviewed Upwork job listings and hides them from future searches, so you only ever see fresh, unreviewed jobs. | [Repo](https://github.com/kashifumar/UpTrack) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/uptrack/) · [Chrome](https://chromewebstore.google.com) · [Edge](https://microsoftedge.microsoft.com/addons) |
+| **UpTrack** | Tracks reviewed Upwork job listings and hides them from future searches, so you only ever see fresh, unreviewed jobs. | [Repo](https://github.com/kashifumar/UpTrack) | [Firefox]Under Review · [Chrome]Under Review · [Edge]Under Review |
 
 ---
 
