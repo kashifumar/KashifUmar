@@ -14,9 +14,10 @@ I work independently — designing, building, and maintaining each tool end-to-e
 
 ## Extensions & Addons
 
-| Name | Description | Repo | Install |
-|---|---|---|---|
-| **UpTrack** | Tracks reviewed Upwork job listings and hides them from future searches, so you only ever see fresh, unreviewed jobs. | [Repo](https://github.com/kashifumar/UpTrack) | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/uptrack/) · [Chrome](https://chromewebstore.google.com/detail/ifaenmeblgbempjfppnkghdbmhnkdimg) · [Edge](https://microsoftedge.microsoft.com/addons/detail/uptrack/llmahbifjjmgeoamlbmgofkabdalekdj) |
+| Name           | Description                                                                                                                   | Repo                                             | Install                                                                                                                                                                                                                                                       |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **UpTrack**    | Tracks reviewed Upwork job listings and hides them from future searches, so you only ever see fresh, unreviewed jobs.         | [Repo](https://github.com/kashifumar/UpTrack)    | [Firefox](https://addons.mozilla.org/en-US/firefox/addon/uptrack/) · [Chrome](https://chromewebstore.google.com/detail/ifaenmeblgbempjfppnkghdbmhnkdimg) · [Edge](https://microsoftedge.microsoft.com/addons/detail/uptrack/llmahbifjjmgeoamlbmgofkabdalekdj) |
+| **LanceTrack** | Tracks reviewed Freelancer.com job listings and hides them from future searches, so you only ever see fresh, unreviewed jobs. | [Repo](https://github.com/kashifumar/LanceTrack) | [Chrome](https://chromewebstore.google.com/detail/lancetrack/kcmfhiiebmgbaihlmdglifmopkjnfbfh)                                                                                                                                                                |
 
 ---
 
@@ -28,4 +29,4 @@ If any of these tools have saved you time, consider supporting their continued d
 
 ---
 
-*More extensions will be added here as they're released.*
+_More extensions will be added here as they're released._
